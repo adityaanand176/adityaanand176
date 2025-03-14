@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Aditya.</h1>
-<p>Currently a student in Jadavpur University. I’m an aspiring iOS developer, and I’m interested in working with Swift. I love the iOS platforms, and I think they’re quite versatile with endless possibilities in development. I’d love to connect with other Swift Developers! </p>
+<p>Currently a student in Jadavpur University. I’m an aspiring iOS developer, and I’m interested in working with Swift. I love the Apple platforms, and I think they’re quite versatile with endless possibilities in development. I’d love to connect with other Swift Developers! </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
