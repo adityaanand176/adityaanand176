@@ -23,3 +23,6 @@ I’m currently a student at Jadavpur University and an enthusiastic iOS develop
 <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42" /></a>
 </p>
+
+<!-- Profile View Counter -->
+<img src="https://komarev.com/ghpvc/?username=adityaanand176&label=Profile%20views&color=0e75b6&style=flat" alt="adityaanand176" />
